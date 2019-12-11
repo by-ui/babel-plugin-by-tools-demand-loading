@@ -1,0 +1,16 @@
+{
+  "name": "babel-plugin-by-tools-demand-loading",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/by-ui/babel-plugin-by-tools-demand-loading.git"
+  },
+  "version": "1.0.17",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "patch": "npm version patch && npm publish"
+  },
+  "author": "Kangzheng.Xiao",
+  "license": "ISC"
+}
